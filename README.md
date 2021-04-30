@@ -1,5 +1,8 @@
 # QNCT Hackintosh
 
+Meu canal:
+https://www.youtube.com/channel/UCYE9gAddfibMTIrRTinAEvg
+
 Testado no:
 Mojave, Catalina 10.15.7, Big Sur
 
