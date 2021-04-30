@@ -28,3 +28,9 @@ USBInjectAll
 VirtualSMC
 WhateverGreen
 XHCI-unsupported
+
+Kext de placa de rede:
+IntelMausiEthernet.kext – Enables ethernet for motherboards using an Intel Ethernet Chipset.
+RealtekRTL8111.kext – Enables ethernet for motherboards using a Realtek Ethernet Chipset
+AtherosE2200Ethernet.kext – Enables ethernet for motherboards using Killer Lan Ethernet Chipset
+https://hackintosher.com/downloads/kexts/
